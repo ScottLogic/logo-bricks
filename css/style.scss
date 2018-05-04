@@ -1,0 +1,138 @@
+@import "normalize.css";
+
+$black: #252525;
+$primary: #5e2c80;
+$dark-primary: #3b2050;
+$light-primary: #6f418f;
+$contrast: #f3f3f3;
+$dark-contrast: #9b9b9b;
+$light-contrast: #ffffff;
+
+$sansFontFamily: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$lightSansFontFamily: $sansFontFamily;
+
+body {
+  background-color: #fff;
+  font-family: $sansFontFamily;
+  font-weight: 300;
+  color: $black;
+  min-height: 740px;
+  line-height: 1.4;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: $sansFontFamily;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}
+
+$transition-time: 1s;
+
+svg {
+  transform-style: preserve-3d;
+}
+
+.step {
+  position: relative;
+  margin: 20px auto;
+
+  width: 1000px;
+  height: 700px;
+  padding: 0;
+  margin: 0;
+
+  &.present, &.active {
+    opacity: 1;
+  }
+}
+
+.block, .top {
+  fill: $primary;
+  stroke: $black;
+  stroke-width: 0.5;
+  stroke-linejoin: round;
+}
+
+#primary-gradient {
+  .stop1 {
+    stop-color: $dark-primary;
+  }
+  .stop2 {
+    stop-color: $light-primary;
+  }
+}
+
+#contrast-gradient {
+  .stop1 {
+    stop-color: $dark-contrast;
+  }
+  .stop2 {
+    stop-color: $light-contrast;
+  }
+}
+
+.primary {
+  .standard {
+    fill: $primary;
+  }
+  .dark {
+    fill: $dark-primary;
+  }
+  .light {
+    fill: $light-primary;
+  }
+  .gradient {
+    fill: url(#primary-gradient);
+  }
+}
+
+.contrast {
+  .standard {
+    fill: $contrast;
+  }
+  .dark {
+    fill: $dark-contrast;
+  }
+  .light {
+    fill: $light-contrast;
+  }
+  .gradient {
+    fill: url(#contrast-gradient);
+  }
+}
+
+#web-assembly-bricks {
+  g {
+    transition-property: transform;
+    transition-duration: $transition-time;
+    transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+  }
+}
+
+#intro {
+  text-align: center;
+  svg {
+    height: 100%;
+  }
+}
+
+@for $i from 1 through 9 {
+  .impress-on-step-#{$i} {
+    @for $j from ($i + 1) through 10 {
+      #web-assembly-bricks {
+        .row-#{$j} {
+          transform: translateY(-1000px);
+        }
+      }
+    }
+  }
+}
+
+@for $i from 0 through 11 {
+  #web-assembly-bricks {
+    .piece-#{$i + 1} {
+      transition-delay: (11 - $i) * 0.2s;
+    }
+  }
+}
