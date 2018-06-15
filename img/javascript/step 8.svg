@@ -1,0 +1,364 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 700">
+  <g class="build">
+    <g class="row-1 piece-1 primary piece">
+      <polygon class="standard" points="521.5 390.23 590.5 376.23 590.5 426.23 521.5 440.23 521.5 390.23" />
+      <polygon class="dark" points="521.5 390.23 495.5 380.23 495.5 430.23 521.5 440.23 521.5 390.23" />
+      <polygon class="light" points="495.5 380.23 521.5 390.23 590.5 376.23 564.5 366.23 495.5 380.23" />
+      <path class="gradient" d="M513.14,372.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="526.14" cy="372.08" rx="13" ry="3.44" />
+      <path class="gradient" d="M549.08,365.33c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="562.08" cy="365.33" rx="13" ry="3.44" />
+    </g>
+    <g class="row-1 piece-2 primary piece">
+      <polygon class="standard" points="382.5 418.23 451.5 404.23 451.5 454.23 382.5 468.23 382.5 418.23" />
+      <polygon class="dark" points="382.5 418.23 356.5 408.23 356.5 458.23 382.5 468.23 382.5 418.23" />
+      <polygon class="light" points="356.5 408.23 382.5 418.23 451.5 404.23 425.5 394.23 356.5 408.23" />
+      <path class="gradient" d="M374.14,400.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="387.14" cy="400.08" rx="13" ry="3.44" />
+      <path class="gradient" d="M410.08,393.33c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="423.08" cy="393.33" rx="13" ry="3.44" />
+    </g>
+    <g class="row-1 piece-3 primary piece">
+      <polygon class="standard" points="651 379.37 720 365.37 720 415.37 651 429.37 651 379.37" />
+      <polygon class="dark" points="651 379.37 625 369.37 625 419.37 651 429.37 651 379.37" />
+      <polygon class="light" points="625 369.37 651 379.37 720 365.37 694 355.37 625 369.37" />
+      <path class="gradient" d="M678.58,354.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V365c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="691.58" cy="354.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M642.64,361.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="655.64" cy="361.22" rx="13" ry="3.44" />
+    </g>
+    <g class="row-1 piece-4 primary piece">
+      <polygon class="standard" points="513 407.37 651 379.37 651 429.37 513 457.37 513 407.37" />
+      <polygon class="dark" points="513 407.37 487 397.37 487 447.37 513 457.37 513 407.37" />
+      <polygon class="light" points="487 397.37 513 407.37 651 379.37 625 369.37 487 397.37" />
+      <path class="gradient" d="M504.64,389.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="517.64" cy="389.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M540.58,382.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V393c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="553.58" cy="382.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M574.64,375.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="587.64" cy="375.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M609.58,368.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V379c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="622.58" cy="368.47" rx="13" ry="3.44" />
+    </g>
+    <g class="row-1 piece-5 primary piece">
+      <polygon class="standard" points="375 435.37 513 407.37 513 457.37 375 485.37 375 435.37" />
+      <polygon class="dark" points="375 435.37 349 425.37 349 475.37 375 485.37 375 435.37" />
+      <polygon class="light" points="349 425.37 375 435.37 513 407.37 487 397.37 349 425.37" />
+      <path class="gradient" d="M366.64,417.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="379.64" cy="417.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M402.58,410.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V421c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="415.58" cy="410.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M436.64,403.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="449.64" cy="403.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M471.58,396.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V407c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="484.58" cy="396.47" rx="13" ry="3.44" />
+    </g>
+    <g class="row-1 piece-6 primary piece">
+      <polygon class="standard" points="306 449.37 375 435.37 375 485.37 306 499.37 306 449.37" />
+      <polygon class="dark" points="306 449.37 280 439.37 280 489.37 306 499.37 306 449.37" />
+      <polygon class="light" points="280 439.37 306 449.37 375 435.37 349 425.37 280 439.37" />
+      <path class="gradient" d="M333.58,424.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V435c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="346.58" cy="424.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M297.64,431.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="310.64" cy="431.22" rx="13" ry="3.44" />
+    </g>
+    <g class="row-2 piece-1 primary piece">
+      <polygon class="standard" points="685.5 322.23 720 315.37 720 365.37 685.5 372.23 685.5 322.23" />
+      <polygon class="dark" points="685.5 322.23 659.5 312.23 659.5 362.23 685.5 372.23 685.5 322.23" />
+      <polygon class="light" points="659.5 312.23 685.5 322.23 720 315.37 694 305.37 659.5 312.23" />
+      <path class="gradient" d="M677.14,304.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="690.14" cy="304.08" rx="13" ry="3.44" />
+    </g>
+    <g class="row-2 piece-2 contrast piece">
+      <polygon class="standard" points="651 329.09 685.5 322.23 685.5 372.23 651 379.09 651 329.09" />
+      <polygon class="dark" points="651 329.09 625 319.09 625 369.09 651 379.09 651 329.09" />
+      <polygon class="light" points="625 319.09 651 329.09 685.5 322.23 659.5 312.23 625 319.09" />
+      <path class="gradient" d="M642.64,310.94c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V321.5c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="655.64" cy="310.94" rx="13" ry="3.44" />
+    </g>
+    <g class="row-2 piece-3 contrast piece">
+      <polygon class="standard" points="582 343.37 651 329.37 651 379.37 582 393.37 582 343.37" />
+      <polygon class="dark" points="582 343.37 556 333.37 556 383.37 582 393.37 582 343.37" />
+      <polygon class="light" points="556 333.37 582 343.37 651 329.37 625 319.37 556 333.37" />
+      <path class="gradient" d="M609.58,318.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V329c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="622.58" cy="318.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M573.64,325.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="586.64" cy="325.22" rx="13" ry="3.44" />
+    </g>
+    <g class="row-2 piece-4 primary piece">
+      <polygon class="standard" points="547.5 350.23 582 343.37 582 393.37 547.5 400.23 547.5 350.23" />
+      <polygon class="dark" points="547.5 350.23 495.5 330.23 495.5 380.23 547.5 400.23 547.5 350.23" />
+      <polygon class="light" points="495.5 330.23 547.5 350.23 582 343.37 530 323.37 495.5 330.23" />
+      <path class="gradient" d="M513.14,322.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="526.14" cy="322.08" rx="13" ry="3.44" />
+      <path class="gradient" d="M539.14,332.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="552.14" cy="332.08" rx="13" ry="3.44" />
+    </g>
+    <g class="row-2 piece-5 contrast piece">
+      <polygon class="standard" points="478.5 364.23 547.5 350.23 547.5 400.23 478.5 414.23 478.5 364.23" />
+      <polygon class="dark" points="478.5 364.23 452.5 354.23 452.5 404.23 478.5 414.23 478.5 364.23" />
+      <polygon class="light" points="452.5 354.23 478.5 364.23 547.5 350.23 521.5 340.23 452.5 354.23" />
+      <path class="gradient" d="M470.14,346.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="483.14" cy="346.08" rx="13" ry="3.44" />
+      <path class="gradient" d="M506.08,339.33c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="519.08" cy="339.33" rx="13" ry="3.44" />
+    </g>
+    <g class="row-2 piece-6 contrast piece">
+      <polygon class="standard" points="444 371.37 478.5 364.51 478.5 414.51 444 421.37 444 371.37" />
+      <polygon class="dark" points="444 371.37 392 351.37 392 401.37 444 421.37 444 371.37" />
+      <polygon class="light" points="392 351.37 444 371.37 478.5 364.51 426.5 344.51 392 351.37" />
+      <path class="gradient" d="M409.64,343.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="422.64" cy="343.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M435.64,353.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="448.64" cy="353.22" rx="13" ry="3.44" />
+    </g>
+    <g class="row-2 piece-7 primary piece">
+      <polygon class="standard" points="306 399.37 444 371.37 444 421.37 306 449.37 306 399.37" />
+      <polygon class="dark" points="306 399.37 280 389.37 280 439.37 306 449.37 306 399.37" />
+      <polygon class="light" points="280 389.37 306 399.37 444 371.37 418 361.37 280 389.37" />
+      <path class="gradient" d="M297.64,381.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="310.64" cy="381.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M333.58,374.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V385c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="346.58" cy="374.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M367.64,367.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="380.64" cy="367.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M402.58,360.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V371c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="415.58" cy="360.47" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-1 primary piece">
+      <polygon class="standard" points="685.5 272.23 720 265.37 720 315.37 685.5 322.23 685.5 272.23" />
+      <polygon class="dark" points="685.5 272.23 659.5 262.23 659.5 312.23 685.5 322.23 685.5 272.23" />
+      <polygon class="light" points="659.5 262.23 685.5 272.23 720 265.37 694 255.37 659.5 262.23" />
+      <path class="gradient" d="M677.14,254.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="690.14" cy="254.08" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-2 contrast piece">
+      <polygon class="standard" points="651 312.42 685.5 305.56 685.5 322.23 651 329.09 651 312.42" />
+      <polygon class="dark" points="651 312.42 625 302.42 625 319.09 651 329.09 651 312.42" />
+      <polygon class="light" points="625 302.42 651 312.42 685.5 305.56 659.5 295.56 625 302.42" />
+      <path class="gradient" d="M642.64,294.27c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="655.64" cy="294.27" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-3 contrast piece">
+      <polygon class="standard" points="651 296.06 685.5 289.2 685.5 305.87 651 312.73 651 296.06" />
+      <polygon class="dark" points="651 296.06 625 286.06 625 302.73 651 312.73 651 296.06" />
+      <polygon class="light" points="625 286.06 651 296.06 685.5 289.2 659.5 279.2 625 286.06" />
+      <path class="gradient" d="M642.64,277.91c0,1.9,5.82,3.45,13,3.45s13-1.55,13-3.45v10.56c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="655.64" cy="277.91" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-4 primary piece">
+      <polygon class="standard" points="582 326.42 651 312.42 651 329.09 582 343.09 582 326.42" />
+      <polygon class="dark" points="582 326.42 556 316.42 556 333.09 582 343.09 582 326.42" />
+      <polygon class="light" points="556 316.42 582 326.42 651 312.42 625 302.42 556 316.42" />
+      <path class="gradient" d="M573.64,308.27c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="586.64" cy="308.27" rx="13" ry="3.44" />
+      <path class="gradient" d="M609.58,301.52c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="622.58" cy="301.52" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-5 primary piece">
+      <polygon class="standard" points="582 309.76 651 295.76 651 312.42 582 326.42 582 309.76" />
+      <polygon class="dark" points="582 309.76 556 299.76 556 316.42 582 326.42 582 309.76" />
+      <polygon class="light" points="556 299.76 582 309.76 651 295.76 625 285.76 556 299.76" />
+      <path class="gradient" d="M573.64,291.6c0,1.91,5.82,3.45,13,3.45s13-1.54,13-3.45v10.56c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="586.64" cy="291.6" rx="13" ry="3.44" />
+      <path class="gradient" d="M609.58,284.85c0,1.91,5.82,3.45,13,3.45s13-1.54,13-3.45v10.56c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="622.58" cy="284.85" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-6 contrast piece">
+      <polygon class="standard" points="581 293.09 685.5 271.84 685.5 288.5 581 309.76 581 293.09" />
+      <polygon class="dark" points="581 293.09 555 283.09 555 299.76 581 309.76 581 293.09" />
+      <polygon class="light" points="555 283.09 581 293.09 685.5 271.84 659.5 261.84 555 283.09" />
+      <path class="gradient" d="M608.58,268.19c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="621.58" cy="268.19" rx="13" ry="3.44" />
+      <path class="gradient" d="M572.64,274.94c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V285.5c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="585.64" cy="274.94" rx="13" ry="3.44" />
+      <path class="gradient" d="M644.08,260.94c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V271.5c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="657.08" cy="260.94" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-7 primary piece">
+      <polygon class="standard" points="547.5 300.23 582 293.37 582 343.37 547.5 350.23 547.5 300.23" />
+      <polygon class="dark" points="547.5 300.23 521.5 290.23 521.5 340.23 547.5 350.23 547.5 300.23" />
+      <polygon class="light" points="521.5 290.23 547.5 300.23 582 293.37 556 283.37 521.5 290.23" />
+      <path class="gradient" d="M539.14,282.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="552.14" cy="282.08" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-8 contrast piece">
+      <polygon class="standard" points="513 307.09 547.5 300.23 547.5 350.23 513 357.09 513 307.09" />
+      <polygon class="dark" points="513 307.09 487 297.09 487 347.09 513 357.09 513 307.09" />
+      <polygon class="light" points="487 297.09 513 307.09 547.5 300.23 521.5 290.23 487 297.09" />
+      <path class="gradient" d="M504.64,288.94c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V299.5c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="517.64" cy="288.94" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-9 primary piece">
+      <polygon class="standard" points="478.5 313.95 513 307.09 513 357.09 478.5 363.95 478.5 313.95" />
+      <polygon class="dark" points="478.5 313.95 452.5 303.95 452.5 353.95 478.5 363.95 478.5 313.95" />
+      <polygon class="light" points="452.5 303.95 478.5 313.95 513 307.09 487 297.09 452.5 303.95" />
+      <path class="gradient" d="M470.14,295.8c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="483.14" cy="295.8" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-10 contrast piece">
+      <polygon class="standard" points="444 354.37 478.5 347.51 478.5 364.17 444 371.03 444 354.37" />
+      <polygon class="dark" points="444 354.37 418 344.37 418 361.03 444 371.03 444 354.37" />
+      <polygon class="light" points="418 344.37 444 354.37 478.5 347.51 452.5 337.51 418 344.37" />
+      <path class="gradient" d="M435.64,336.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="448.64" cy="336.22" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-11 primary piece">
+      <polygon class="standard" points="444 337.48 478.5 330.62 478.5 347.28 444 354.14 444 337.48" />
+      <polygon class="dark" points="444 337.48 418 327.48 418 344.14 444 354.14 444 337.48" />
+      <polygon class="light" points="418 327.48 444 337.48 478.5 330.62 452.5 320.62 418 327.48" />
+      <path class="gradient" d="M435.64,319.32c0,1.91,5.82,3.45,13,3.45s13-1.54,13-3.45v10.56c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="448.64" cy="319.32" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-12 primary piece">
+      <polygon class="standard" points="444 321.12 478.5 314.26 478.5 330.92 444 337.78 444 321.12" />
+      <polygon class="dark" points="444 321.12 418 311.12 418 327.78 444 337.78 444 321.12" />
+      <polygon class="light" points="418 311.12 444 321.12 478.5 314.26 452.5 304.26 418 311.12" />
+      <path class="gradient" d="M435.64,303c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="448.64" cy="302.97" rx="13" ry="3.44" />
+    </g>
+    <g class="row-3 piece-13 primary piece">
+      <polygon class="standard" points="306 349.37 444 321.37 444 371.37 306 399.37 306 349.37" />
+      <polygon class="dark" points="306 349.37 280 339.37 280 389.37 306 399.37 306 349.37" />
+      <polygon class="light" points="280 339.37 306 349.37 444 321.37 418 311.37 280 339.37" />
+      <path class="gradient" d="M297.64,331.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="310.64" cy="331.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M333.58,324.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V335c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="346.58" cy="324.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M367.64,317.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="380.64" cy="317.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M402.58,310.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V321c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="415.58" cy="310.47" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-1 primary piece">
+      <polygon class="standard" points="685.5 222.23 720 215.37 720 265.37 685.5 272.23 685.5 222.23" />
+      <polygon class="dark" points="685.5 222.23 659.5 212.23 659.5 262.23 685.5 272.23 685.5 222.23" />
+      <polygon class="light" points="659.5 212.23 685.5 222.23 720 215.37 694 205.37 659.5 212.23" />
+      <path class="gradient" d="M677.14,204.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="690.14" cy="204.08" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-2 contrast piece">
+      <polygon class="standard" points="581 276.81 685.5 255.56 685.5 272.23 581 293.48 581 276.81" />
+      <polygon class="dark" points="581 276.81 555 266.81 555 283.48 581 293.48 581 276.81" />
+      <polygon class="light" points="555 266.81 581 276.81 685.5 255.56 659.5 245.56 555 266.81" />
+      <path class="gradient" d="M608.58,251.91c0,1.9,5.82,3.45,13,3.45s13-1.55,13-3.45v10.56c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="621.58" cy="251.91" rx="13" ry="3.44" />
+      <path class="gradient" d="M572.64,258.66c0,1.9,5.82,3.45,13,3.45s13-1.55,13-3.45v10.56c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="585.64" cy="258.66" rx="13" ry="3.44" />
+      <path class="gradient" d="M644.08,244.66c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="657.08" cy="244.66" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-3 primary piece">
+      <polygon class="standard" points="616.5 252.9 685.5 238.9 685.5 255.56 616.5 269.56 616.5 252.9" />
+      <polygon class="dark" points="616.5 252.9 590.5 242.9 590.5 259.56 616.5 269.56 616.5 252.9" />
+      <polygon class="light" points="590.5 242.9 616.5 252.9 685.5 238.9 659.5 228.9 590.5 242.9" />
+      <path class="gradient" d="M608.14,234.74c0,1.91,5.82,3.45,13,3.45s13-1.54,13-3.45V245.3c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="621.14" cy="234.74" rx="13" ry="3.44" />
+      <path class="gradient" d="M644.08,228c0,1.91,5.82,3.45,13,3.45s13-1.54,13-3.45v10.56c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="657.08" cy="227.99" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-4 primary piece">
+      <polygon class="standard" points="616.5 236.23 685.5 222.23 685.5 238.9 616.5 252.9 616.5 236.23" />
+      <polygon class="dark" points="616.5 236.23 590.5 226.23 590.5 242.9 616.5 252.9 616.5 236.23" />
+      <polygon class="light" points="590.5 226.23 616.5 236.23 685.5 222.23 659.5 212.23 590.5 226.23" />
+      <path class="gradient" d="M644.08,211.33c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="657.08" cy="211.33" rx="13" ry="3.44" />
+      <path class="gradient" d="M608.14,218.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="621.14" cy="218.08" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-5 contrast piece">
+      <polygon class="standard" points="582 259.73 616.5 252.87 616.5 269.53 582 276.39 582 259.73" />
+      <polygon class="dark" points="582 259.73 556 249.73 556 266.39 582 276.39 582 259.73" />
+      <polygon class="light" points="556 249.73 582 259.73 616.5 252.87 590.5 242.87 556 249.73" />
+      <path class="gradient" d="M573.64,241.57c0,1.91,5.82,3.45,13,3.45s13-1.54,13-3.45v10.56c-14.5,6.63-26,0-26,0Z" />
+      <ellipse class="light" cx="586.64" cy="241.57" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-5 contrast piece">
+      <polygon class="standard" points="582 243.37 616.5 236.51 616.5 253.17 582 260.03 582 243.37" />
+      <polygon class="dark" points="582 243.37 556 233.37 556 250.03 582 260.03 582 243.37" />
+      <polygon class="light" points="556 233.37 582 243.37 616.5 236.51 590.5 226.51 556 233.37" />
+      <path class="gradient" d="M573.64,225.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="586.64" cy="225.22" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-6 primary piece">
+      <polygon class="standard" points="547.5 250.23 582 243.37 582 293.37 547.5 300.23 547.5 250.23" />
+      <polygon class="dark" points="547.5 250.23 521.5 240.23 521.5 290.23 547.5 300.23 547.5 250.23" />
+      <polygon class="light" points="521.5 240.23 547.5 250.23 582 243.37 556 233.37 521.5 240.23" />
+      <path class="gradient" d="M539.14,232.08c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="552.14" cy="232.08" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-7 contrast piece">
+      <polygon class="standard" points="513 257.09 547.5 250.23 547.5 300.23 513 307.09 513 257.09" />
+      <polygon class="dark" points="513 257.09 487 247.09 487 297.09 513 307.09 513 257.09" />
+      <polygon class="light" points="487 247.09 513 257.09 547.5 250.23 521.5 240.23 487 247.09" />
+      <path class="gradient" d="M504.64,238.94c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V249.5c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="517.64" cy="238.94" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-8 primary piece">
+      <polygon class="standard" points="375 285.37 513 257.37 513 307.37 375 335.37 375 285.37" />
+      <polygon class="dark" points="375 285.37 349 275.37 349 325.37 375 335.37 375 285.37" />
+      <polygon class="light" points="349 275.37 375 285.37 513 257.37 487 247.37 349 275.37" />
+      <path class="gradient" d="M366.64,267.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="379.64" cy="267.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M402.58,260.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V271c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="415.58" cy="260.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M436.64,253.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="449.64" cy="253.22" rx="13" ry="3.44" />
+      <path class="gradient" d="M471.58,246.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V257c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="484.58" cy="246.47" rx="13" ry="3.44" />
+    </g>
+    <g class="row-4 piece-9 primary piece">
+      <polygon class="standard" points="306 299.37 375 285.37 375 335.37 306 349.37 306 299.37" />
+      <polygon class="dark" points="306 299.37 280 289.37 280 339.37 306 349.37 306 299.37" />
+      <polygon class="light" points="280 289.37 306 299.37 375 285.37 349 275.37 280 289.37" />
+      <path class="gradient" d="M333.58,274.47c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44V285c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="346.58" cy="274.47" rx="13" ry="3.44" />
+      <path class="gradient" d="M297.64,281.22c0,1.9,5.82,3.44,13,3.44s13-1.54,13-3.44v10.56c-14.5,6.62-26,0-26,0Z" />
+      <ellipse class="light" cx="310.64" cy="281.22" rx="13" ry="3.44" />
+    </g>
+  </g>
+  <g class="list">
+    <rect class="background" x="10" y="100" width="145" height="393.5" />
+    <text transform="translate(30 476.48)">1x</text>
+    <g class="piece primary">
+      <polygon class="standard" points="46.9 420.52 136.6 402.32 136.6 434.82 46.9 453.02 46.9 420.52" />
+      <polygon class="dark" points="46.9 420.52 30 414.02 30 446.52 46.9 453.02 46.9 420.52" />
+      <polygon class="light" points="30 414.02 46.9 420.52 136.6 402.32 119.7 395.82 30 414.02" />
+      <path class="gradient" d="M41.47,408.73c0,1.23,3.78,2.23,8.45,2.23s8.45-1,8.45-2.23v6.86a19.35,19.35,0,0,1-16.9,0Z" />
+      <ellipse class="light" cx="49.92" cy="408.73" rx="8.45" ry="2.24" />
+      <path class="gradient" d="M64.83,404.34c0,1.24,3.78,2.24,8.45,2.24s8.45-1,8.45-2.24v6.86a19.35,19.35,0,0,1-16.9,0Z" />
+      <ellipse class="light" cx="73.28" cy="404.34" rx="8.45" ry="2.24" />
+      <path class="gradient" d="M87,399.63c0,1.23,3.78,2.23,8.45,2.23s8.45-1,8.45-2.23v6.86a19.35,19.35,0,0,1-16.9,0Z" />
+      <ellipse class="light" cx="95.42" cy="399.63" rx="8.45" ry="2.24" />
+      <path class="gradient" d="M109.68,395.24c0,1.24,3.78,2.24,8.45,2.24s8.45-1,8.45-2.24v6.86a19.35,19.35,0,0,1-16.9,0Z" />
+      <ellipse class="light" cx="118.13" cy="395.24" rx="8.45" ry="2.24" />
+    </g>
+    <text transform="translate(30 371.48)">1x</text>
+    <g class="piece primary">
+      <polygon class="standard" points="46.9 315.43 91.75 306.32 91.75 338.82 46.9 347.93 46.9 315.43" />
+      <polygon class="dark" points="46.9 315.43 30 308.93 30 341.43 46.9 347.93 46.9 315.43" />
+      <polygon class="light" points="30 308.93 46.9 315.43 91.75 306.32 74.85 299.82 30 308.93" />
+      <path class="gradient" d="M64.83,299.24c0,1.24,3.78,2.24,8.45,2.24s8.45-1,8.45-2.24v6.86a19.35,19.35,0,0,1-16.9,0Z" />
+      <ellipse class="light" cx="73.28" cy="299.24" rx="8.45" ry="2.24" />
+      <path class="gradient" d="M41.47,303.63c0,1.23,3.78,2.23,8.45,2.23s8.45-1,8.45-2.23v6.86a19.35,19.35,0,0,1-16.9,0Z" />
+      <ellipse class="light" cx="49.92" cy="303.63" rx="8.45" ry="2.24" />
+    </g>
+    <text transform="translate(30 275.48)">1x</text>
+    <g class="piece contrast">
+      <polygon class="standard" points="46.81 219.06 69.2 214.4 69.5 246.89 47.12 251.56 46.81 219.06" />
+      <polygon class="dark" points="46.81 219.06 29.85 212.72 30.16 245.22 47.12 251.56 46.81 219.06" />
+      <polygon class="light" points="29.85 212.72 46.81 219.06 69.2 214.4 52.24 208.05 29.85 212.72" />
+      <path class="gradient" d="M41.27,207.32c0,1.23,3.81,2.2,8.47,2.16s8.44-1.09,8.43-2.32l.07,6.86a19.35,19.35,0,0,1-16.9.16Z" />
+      <ellipse class="light" cx="49.72" cy="207.24" rx="8.45" ry="2.24" transform="translate(-1.93 0.47) rotate(-0.53)" />
+    </g>
+    <text transform="translate(30 184.48)">2x</text>
+    <g class="piece primary">
+      <polygon class="standard" points="46.9 129.04 69.33 124.58 69.33 157.08 46.9 161.54 46.9 129.04" />
+      <polygon class="dark" points="46.9 129.04 30 122.54 30 155.04 46.9 161.54 46.9 129.04" />
+      <polygon class="light" points="30 122.54 46.9 129.04 69.33 124.58 52.42 118.08 30 122.54" />
+      <path class="gradient" d="M41.47,117.24c0,1.24,3.78,2.24,8.45,2.24s8.45-1,8.45-2.24v6.86a19.35,19.35,0,0,1-16.9,0Z" />
+      <ellipse class="light" cx="49.92" cy="117.24" rx="8.45" ry="2.24" />
+    </g>
+  </g>
+  <text transform="translate(30 72.24)">8</text>
+</svg>
