@@ -1,0 +1,19 @@
+{
+  "name": "logo-bricks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ScottLogic/logo-bricks.git",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "jquery-scrollify": "^1.0.19"
+  },
+  "scripts": {
+    "postinstall": "cp node_modules/jquery/dist/jquery.min.js js && cp node_modules/jquery-scrollify/jquery.scrollify.js js",
+    "build" : "node-sass css/style.scss -o css",
+    "build:watch" : "node-sass -w css/style.scss -o css"
+  },
+  "devDependencies": {
+    "node-sass": "^4.9.1"
+  }
+}

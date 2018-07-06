@@ -1,0 +1,95 @@
+@import url(normalize.css);
+body {
+  background-color: #fff;
+  font-family: "objektiv-mk1", sans-serif;
+  font-weight: 300;
+  color: #252525;
+  min-height: 740px;
+  line-height: 1.4; }
+
+h1, h2, h3, h4, h5 {
+  font-family: "objektiv-mk1", sans-serif;
+  font-weight: 300;
+  margin: 0;
+  padding: 0; }
+
+svg {
+  transform-style: preserve-3d; }
+  svg text {
+    fill: #252525;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "objektiv-mk1", sans-serif; }
+
+.step {
+  box-sizing: content-box;
+  position: relative;
+  margin: 20px auto;
+  height: 100vh;
+  padding: 0;
+  margin: 0;
+  text-align: center; }
+  .step svg {
+    height: 100vmin;
+    width: 100vmin; }
+
+#primary-gradient .stop1 {
+  stop-color: #A47E30; }
+
+#primary-gradient .stop2 {
+  stop-color: #FFDE60; }
+
+#contrast-gradient .stop1 {
+  stop-color: #212121; }
+
+#contrast-gradient .stop2 {
+  stop-color: #4f4f4f; }
+
+.piece {
+  fill: #F2BB4D;
+  stroke: #252525;
+  stroke-width: 0.5;
+  stroke-linejoin: round; }
+
+.primary .standard {
+  fill: #F2BB4D; }
+
+.primary .dark {
+  fill: #A47E30; }
+
+.primary .light {
+  fill: #FFDE60; }
+
+.primary .gradient {
+  fill: url(#primary-gradient); }
+
+.contrast .standard {
+  fill: #333333; }
+
+.contrast .dark {
+  fill: #212121; }
+
+.contrast .light {
+  fill: #4f4f4f; }
+
+.contrast .gradient {
+  fill: url(#contrast-gradient); }
+
+.list .background {
+  fill: #DFF0F3;
+  stroke: #2BB3BB;
+  stroke-weight: 0.5; }
+
+.list text {
+  font-size: 21px; }
+
+.meta .background {
+  fill: #F9EAF1;
+  stroke: #C41565;
+  stroke-weight: 0.5; }
+
+.meta text {
+  font-size: 36px; }
+
+.arrow {
+  fill: #C41565; }

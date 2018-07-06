@@ -22,7 +22,7 @@ $js-contrast: #333333;
 $js-dark-contrast: #212121;
 $js-light-contrast: #4f4f4f;
 
-$sansFontFamily: "objektiv-mk1",sans-serif;
+$sansFontFamily: "objektiv-mk1", sans-serif;
 $lightSansFontFamily: $sansFontFamily;
 
 body {
@@ -41,8 +41,6 @@ h1, h2, h3, h4, h5 {
   padding: 0;
 }
 
-$transition-time: 1s;
-
 svg {
   transform-style: preserve-3d;
 
@@ -55,23 +53,18 @@ svg {
 }
 
 .step {
+  box-sizing: content-box;
   position: relative;
   margin: 20px auto;
 
-  width: 1000px;
-  height: 700px;
+  height: 100vh;
   padding: 0;
   margin: 0;
-  opacity: 0;
-  transition: opacity $transition-time;
   text-align: center;
 
   svg {
-    height: 100%;
-  }
-
-  &.present, &.active, &.past {
-    opacity: 1;
+    height: 100vmin;
+    width: 100vmin;
   }
 }
 
