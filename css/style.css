@@ -50,10 +50,13 @@ svg {
 .step {
   position: relative;
   margin: 0 auto;
+  padding: 20px;
   height: 100vh;
-  padding: 0;
-  margin: 0;
-  text-align: center; }
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; }
   .step svg.fill {
     height: 100vmin;
     width: 100vmin; }

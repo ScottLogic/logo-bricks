@@ -65,7 +65,7 @@ svg {
   display: flex;
   flex-direction: column;
   align-items: stretch;
-
+  
   header {
     flex-grow: 1;
     display: flex; 
@@ -92,11 +92,15 @@ svg {
 .step {
   position: relative;
   margin: 0 auto;
+  padding: 20px;
 
   height: 100vh;
-  padding: 0;
-  margin: 0;
   text-align: center;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 
   svg.fill {
     height: 100vmin;
