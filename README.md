@@ -4,7 +4,7 @@ Your favourite web technologies, in brick form!
 
 ## Assembly Instructions
 
-You can find full assembly instructions on the [logo-blocks website](https://scottlogic.github.io/logo-bricks);
+You can find full assembly instructions on the [logo-blocks website](https://scottlogic.github.io/logo-bricks).
 
 ## Obtaining the bricks
 
@@ -18,7 +18,7 @@ To order your bricks, sign up for a BrickLink account, then [upload a Wanted Lis
 
 Once uploaded you'll see the list of items in order to verify them:
 
-![verify items](/ordering/verify-items.png)
+![verify items](/ordering/verify-list.png)
 
 Once verified, you have your own wanted list. To buy them, click that big green 'Buy All' button:
 
