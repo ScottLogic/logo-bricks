@@ -58,8 +58,8 @@ svg {
   justify-content: center;
   align-items: center; }
   .step svg.fill {
-    height: 100vmin;
-    width: 100vmin; }
+    height: 95vmin;
+    width: 95vmin; }
 
 #primary-gradient .stop1 {
   stop-color: #A47E30; }
