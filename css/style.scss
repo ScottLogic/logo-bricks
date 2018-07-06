@@ -30,8 +30,6 @@ body {
   font-family: $sansFontFamily;
   font-weight: 300;
   color: $sl-black;
-  min-height: 740px;
-  line-height: 1.4;
 }
 
 h1, h2, h3, h4, h5 {
@@ -39,6 +37,17 @@ h1, h2, h3, h4, h5 {
   font-weight: 300;
   margin: 0;
   padding: 0;
+}
+
+a {
+  border-bottom: 5px solid $sl-blue;
+  font-weight: 500;
+  color: $sl-black;
+  text-decoration: none;
+
+  &:hover {
+    background-color: $sl-blue;
+  }
 }
 
 svg {
@@ -52,17 +61,44 @@ svg {
   }
 }
 
+#intro, #outro {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+
+  header {
+    flex-grow: 1;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+  }
+  section {
+    flex-grow: 2;
+    display: flex;
+
+    svg {
+      flex-grow: 1;
+    }
+    img {
+      object-fit: contain;
+      margin: 0 auto;
+    }
+  }
+  footer {
+    flex-grow: 1;
+  }
+}
+
 .step {
-  box-sizing: content-box;
   position: relative;
-  margin: 20px auto;
+  margin: 0 auto;
 
   height: 100vh;
   padding: 0;
   margin: 0;
   text-align: center;
 
-  svg {
+  svg.fill {
     height: 100vmin;
     width: 100vmin;
   }

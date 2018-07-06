@@ -3,15 +3,21 @@ body {
   background-color: #fff;
   font-family: "objektiv-mk1", sans-serif;
   font-weight: 300;
-  color: #252525;
-  min-height: 740px;
-  line-height: 1.4; }
+  color: #252525; }
 
 h1, h2, h3, h4, h5 {
   font-family: "objektiv-mk1", sans-serif;
   font-weight: 300;
   margin: 0;
   padding: 0; }
+
+a {
+  border-bottom: 5px solid #2BB3BB;
+  font-weight: 500;
+  color: #252525;
+  text-decoration: none; }
+  a:hover {
+    background-color: #2BB3BB; }
 
 svg {
   transform-style: preserve-3d; }
@@ -21,15 +27,34 @@ svg {
     font-weight: 700;
     font-family: "objektiv-mk1", sans-serif; }
 
+#intro, #outro {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch; }
+  #intro header, #outro header {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; }
+  #intro section, #outro section {
+    flex-grow: 2;
+    display: flex; }
+    #intro section svg, #outro section svg {
+      flex-grow: 1; }
+    #intro section img, #outro section img {
+      object-fit: contain;
+      margin: 0 auto; }
+  #intro footer, #outro footer {
+    flex-grow: 1; }
+
 .step {
-  box-sizing: content-box;
   position: relative;
-  margin: 20px auto;
+  margin: 0 auto;
   height: 100vh;
   padding: 0;
   margin: 0;
   text-align: center; }
-  .step svg {
+  .step svg.fill {
     height: 100vmin;
     width: 100vmin; }
 
