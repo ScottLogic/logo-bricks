@@ -11,6 +11,10 @@ h1, h2, h3, h4, h5 {
   margin: 0;
   padding: 0; }
 
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  body {
+    font-size: 70%; } }
+
 a {
   border-bottom: 5px solid #2BB3BB;
   font-weight: 500;
@@ -38,12 +42,11 @@ svg {
     justify-content: center; }
   #intro section, #outro section {
     flex-grow: 2;
-    display: flex; }
+    display: flex;
+    align-items: center;
+    flex-direction: column; }
     #intro section svg, #outro section svg {
       flex-grow: 1; }
-    #intro section img, #outro section img {
-      object-fit: contain;
-      margin: 0 auto; }
   #intro footer, #outro footer {
     flex-grow: 1; }
 
@@ -51,6 +54,7 @@ svg {
   position: relative;
   margin: 0 auto;
   padding: 20px;
+  box-sizing: border-box;
   height: 100vh;
   text-align: center;
   display: flex;

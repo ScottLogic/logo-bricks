@@ -39,6 +39,12 @@ h1, h2, h3, h4, h5 {
   padding: 0;
 }
 
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+  body {
+    font-size: 70%;
+  }
+}
+
 a {
   border-bottom: 5px solid $sl-blue;
   font-weight: 500;
@@ -75,13 +81,13 @@ svg {
   section {
     flex-grow: 2;
     display: flex;
+    align-items: center;
+    flex-direction: column;
 
     svg {
       flex-grow: 1;
     }
     img {
-      object-fit: contain;
-      margin: 0 auto;
     }
   }
   footer {
@@ -94,6 +100,7 @@ svg {
   margin: 0 auto;
   padding: 20px;
 
+  box-sizing: border-box;
   height: 100vh;
   text-align: center;
 
