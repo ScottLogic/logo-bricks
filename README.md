@@ -4,8 +4,8 @@ Web technologies, in brick form!
 
 ## Assembly Instructions
 
-[JavaScript](https://github.com/ScottLogic/logo-bricks/blob/master/JavaScriptInstructions.pdf)
-[WebAssembly](https://github.com/ScottLogic/logo-bricks/blob/master/WebAssemblyInstructions.pdf)
+* [JavaScript](https://github.com/ScottLogic/logo-bricks/blob/master/JavaScriptInstructions.pdf)
+* [WebAssembly](https://github.com/ScottLogic/logo-bricks/blob/master/WebAssemblyInstructions.pdf)
 
 ## Obtaining the bricks
 
