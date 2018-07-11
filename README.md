@@ -1,14 +1,15 @@
 # Logo Bricks
 
-Your favourite web technologies, in brick form!
+Web technologies, in brick form!
 
 ## Assembly Instructions
 
-You can find full assembly instructions on the [logo-blocks website](https://scottlogic.github.io/logo-bricks).
+[JavaScript](https://github.com/ScottLogic/logo-bricks/blob/master/JavaScriptInstructions.pdf)
+[WebAssembly](https://github.com/ScottLogic/logo-bricks/blob/master/WebAssemblyInstructions.pdf)
 
 ## Obtaining the bricks
 
-In order to build your favourite web technology logo, you're going to need to buy some bricks. This is actually quite straightforward, there are a number of standard formats for brick inventory. You can find the required files in the [models](/models) folder of this repository.
+In order to build your logo, you're going to need to buy some bricks. This is actually quite straightforward, there are a number of standard formats for brick inventory. You can find the required files in the [models](/models) folder of this repository.
 
 Once you have the required model file, you need to place an order with a brick supplier, we've found [BrickLink](https://www.bricklink.com/) to be a really good site for finding suppliers and sellers. As BrickLink is a marketplace for multiple sellers the interface and terminology can be a bit confusing for first-time users. The following instructions lead you through the steps to find a seller and place an order. In this example, we found a supplier for the JS logo for just £1.88.
 
