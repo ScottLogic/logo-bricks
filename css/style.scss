@@ -13,12 +13,6 @@ body {
   color: $sl-black;
 }
 
-@media only screen and (min-width: 320px) and (max-width: 480px) {
-  body {
-    font-size: 80%;
-  }
-}
-
 p, a {
   line-height: 180%;
 }
@@ -58,6 +52,7 @@ svg {
 .container {
   max-width: 750px;
   margin: 0 auto;
+  padding: 0 10px;
 }
 
 #intro {
