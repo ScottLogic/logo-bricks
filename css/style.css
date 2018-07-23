@@ -1,92 +1,10 @@
+@charset "UTF-8";
 @import url(normalize.css);
-body {
-  background-color: #fff;
-  font-family: "objektiv-mk1", sans-serif;
-  font-weight: 300;
-  color: #252525; }
-
-p {
-  line-height: 180%; }
-
-h1, h2, h3, h4, h5 {
-  font-family: "objektiv-mk1", sans-serif;
-  font-weight: 300;
-  margin: 0;
-  padding: 0; }
-
-@media only screen and (min-width: 320px) and (max-width: 480px) {
-  body {
-    font-size: 80%; } }
-
-a {
-  border-bottom: 5px solid #2BB3BB;
-  font-weight: 500;
-  color: #252525;
-  text-decoration: none; }
-  a:hover {
-    background-color: #2BB3BB; }
-
-svg {
-  transform-style: preserve-3d; }
-  svg text {
-    fill: #252525;
-    font-size: 48px;
-    font-weight: 700;
-    font-family: "objektiv-mk1", sans-serif; }
-
-.container {
-  max-width: 600px;
-  margin: 0 auto; }
-
-#intro {
-  display: flex;
-  flex-direction: column;
-  align-items: stretch; }
-  #intro header {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: center; }
-  #intro section {
-    flex: 2;
-    display: flex;
-    align-items: center;
-    flex-direction: row; }
-    #intro section div {
-      max-width: 100%;
-      max-height: 100%;
-      display: flex;
-      flex-direction: column;
-      margin: 0 auto;
-      vertical-align: middle;
-      flex-grow: 1; }
-      #intro section div svg {
-        max-width: 100%;
-        max-height: 100%; }
-      #intro section div a {
-        align-self: center; }
-  #intro footer {
-    flex: 1;
-    font-size: 80%;
-    padding-top: 50px; }
-
-.step {
-  position: relative;
-  margin: 0 auto;
-  padding: 20px;
-  box-sizing: border-box;
-  height: 100vh;
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center; }
-
 #primary-gradient .stop1 {
-  stop-color: #A47E30; }
+  stop-color: #a47e30; }
 
 #primary-gradient .stop2 {
-  stop-color: #FFDE60; }
+  stop-color: #ffde60; }
 
 #contrast-gradient .stop1 {
   stop-color: #212121; }
@@ -95,22 +13,10 @@ svg {
   stop-color: #4f4f4f; }
 
 .piece {
-  fill: #F2BB4D;
+  fill: #f2bb4d;
   stroke: #252525;
   stroke-width: 0.5;
   stroke-linejoin: round; }
-
-.primary .standard {
-  fill: #F2BB4D; }
-
-.primary .dark {
-  fill: #A47E30; }
-
-.primary .light {
-  fill: #FFDE60; }
-
-.primary .gradient {
-  fill: url(#primary-gradient); }
 
 .contrast .standard {
   fill: #333333; }
@@ -125,20 +31,98 @@ svg {
   fill: url(#contrast-gradient); }
 
 .list .background {
-  fill: #DFF0F3;
-  stroke: #2BB3BB;
+  fill: #dff0f3;
+  stroke: #2bb3bb;
   stroke-weight: 0.5; }
 
 .list text {
   font-size: 21px; }
 
 .meta .background {
-  fill: #F9EAF1;
-  stroke: #C41565;
+  fill: #f9eaf1;
+  stroke: #c41565;
   stroke-weight: 0.5; }
 
 .meta text {
   font-size: 36px; }
 
 .arrow {
-  fill: #C41565; }
+  fill: #c41565; }
+
+body {
+  background-color: #fff;
+  font-family: "objektiv-mk1", sans-serif;
+  font-weight: 300;
+  color: #252525; }
+
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+  body {
+    font-size: 80%; } }
+
+p, a {
+  line-height: 180%; }
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 300;
+  margin: 0;
+  padding: 0; }
+
+a {
+  border-bottom: 5px solid #2bb3bb;
+  font-weight: 500;
+  color: #252525;
+  text-decoration: none; }
+  a:hover {
+    background-color: #2bb3bb; }
+
+svg {
+  transform-style: preserve-3d; }
+  svg text {
+    fill: #252525;
+    font-size: 48px;
+    font-weight: 700;
+    font-family: "objektiv-mk1", sans-serif; }
+
+.container {
+  max-width: 750px;
+  margin: 0 auto; }
+
+#intro {
+  margin-top: 30px;
+  text-align: center; }
+  #intro header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center; }
+  #intro section {
+    display: flex;
+    justify-content: center; }
+    #intro section > div {
+      width: 50%;
+      padding: 20px;
+      box-sizing: border-box;
+      vertical-align: middle; }
+      #intro section > div svg {
+        max-width: 100%;
+        max-height: 100%; }
+      #intro section > div ul {
+        list-style: none;
+        margin: 0;
+        padding: 0; }
+        #intro section > div ul li {
+          display: inline; }
+          #intro section > div ul li a {
+            white-space: nowrap;
+            font-size: 80%;
+            border-bottom: 4px solid #2bb3bb; }
+          #intro section > div ul li:after {
+            content: " • "; }
+          #intro section > div ul li:last-child:after {
+            content: ""; }
+  #intro footer {
+    font-size: 80%;
+    margin-top: 30px; }
