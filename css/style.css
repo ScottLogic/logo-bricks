@@ -1,62 +1,15 @@
 @charset "UTF-8";
-@import url(normalize.css);
-#primary-gradient .stop1 {
-  stop-color: #a47e30; }
-
-#primary-gradient .stop2 {
-  stop-color: #ffde60; }
-
-#contrast-gradient .stop1 {
-  stop-color: #212121; }
-
-#contrast-gradient .stop2 {
-  stop-color: #4f4f4f; }
-
-.piece {
-  fill: #f2bb4d;
-  stroke: #252525;
-  stroke-width: 0.5;
-  stroke-linejoin: round; }
-
-.contrast .standard {
-  fill: #333333; }
-
-.contrast .dark {
-  fill: #212121; }
-
-.contrast .light {
-  fill: #4f4f4f; }
-
-.contrast .gradient {
-  fill: url(#contrast-gradient); }
-
-.list .background {
-  fill: #dff0f3;
-  stroke: #2bb3bb;
-  stroke-weight: 0.5; }
-
-.list text {
-  font-size: 21px; }
-
-.meta .background {
-  fill: #f9eaf1;
-  stroke: #c41565;
-  stroke-weight: 0.5; }
-
-.meta text {
-  font-size: 36px; }
-
-.arrow {
-  fill: #c41565; }
-
+@import url(/Users/godds/dev/logo-bricks/css/normalize.css);
 body {
   background-color: #fff;
   font-family: "objektiv-mk1", sans-serif;
   font-weight: 300;
-  color: #252525; }
+  color: #252525;
+}
 
 p, a {
-  line-height: 180%; }
+  line-height: 180%;
+}
 
 h1,
 h2,
@@ -65,61 +18,122 @@ h4,
 h5 {
   font-weight: 300;
   margin: 0;
-  padding: 0; }
+  padding: 0;
+}
 
 a {
   border-bottom: 5px solid #2bb3bb;
   font-weight: 500;
   color: #252525;
-  text-decoration: none; }
-  a:hover {
-    background-color: #2bb3bb; }
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #2bb3bb;
+}
 
 svg {
-  transform-style: preserve-3d; }
-  svg text {
-    fill: #252525;
-    font-size: 48px;
-    font-weight: 700;
-    font-family: "objektiv-mk1", sans-serif; }
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+}
 
-.container {
-  max-width: 750px;
-  margin: 0 auto;
-  padding: 0 10px; }
+svg text {
+  fill: #252525;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: "objektiv-mk1", sans-serif;
+}
 
-#intro {
+header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
   margin-top: 30px;
-  text-align: center; }
-  #intro header {
-    display: flex;
-    flex-direction: column;
-    justify-content: center; }
-  #intro section {
-    display: flex;
-    justify-content: center; }
-    #intro section > div {
-      width: 50%;
-      padding: 20px;
-      box-sizing: border-box;
-      vertical-align: middle; }
-      #intro section > div svg {
-        max-width: 100%;
-        max-height: 100%; }
-      #intro section > div ul {
-        list-style: none;
-        margin: 0;
-        padding: 0; }
-        #intro section > div ul li {
-          display: inline; }
-          #intro section > div ul li a {
-            white-space: nowrap;
-            font-size: 80%;
-            border-bottom: 4px solid #2bb3bb; }
-          #intro section > div ul li:after {
-            content: " • "; }
-          #intro section > div ul li:last-child:after {
-            content: ""; }
-  #intro footer {
-    font-size: 80%;
-    margin-top: 30px; }
+}
+
+.logos {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+}
+
+.logos .logo {
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+  max-width: 375px;
+  padding: 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-align: center;
+}
+
+.logos .logo svg {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.logos .logo ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.logos .logo ul li {
+  display: inline;
+}
+
+.logos .logo ul li a {
+  white-space: nowrap;
+  font-size: 80%;
+  border-bottom: 4px solid #2bb3bb;
+}
+
+.logos .logo ul li:after {
+  content: " • ";
+}
+
+.logos .logo ul li:last-child:after {
+  content: "";
+}
+
+footer {
+  font-size: 80%;
+  margin-top: 30px;
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+#intro section {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+#intro section > div {
+  width: 50%;
+  padding: 20px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  vertical-align: middle;
+}
+/*# sourceMappingURL=style.css.map */
