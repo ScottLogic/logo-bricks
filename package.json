@@ -5,7 +5,7 @@
   "repository": "https://github.com/ScottLogic/logo-bricks.git",
   "license": "MIT",
   "dependencies": {
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.0",
     "jquery-scrollify": "^1.0.19"
   },
   "scripts": {
